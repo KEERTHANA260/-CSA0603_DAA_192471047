@@ -24,8 +24,8 @@ No build step. Open `index.html` in a browser.
 4. Your site appears at `https://<your-username>.github.io/<repo-name>/`.
 
 ## Authors
-- Student A: <name, reg. no.>
-- Student B: <name, reg. no.>
+- Student A: Keerthana S - 192471047
+- Student B: K.Dhanaswini - 192421326
 
 ## Notes
 Counts are exact for the randomly generated inputs. Timing is intentionally not measured in the
